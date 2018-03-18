@@ -1,2 +1,2 @@
 #!/bin/bash
-twistd -n web --path html
+~/.center/bin/apachectl -k start
