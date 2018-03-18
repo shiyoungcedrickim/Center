@@ -1,3 +1,4 @@
+###### This README.md was written by a person who is not a GitHub Contributor to this project. 
 # About
 Web Console is a web-based application that allows to execute shell commands on a server directly from a browser (web-based SSH). The application is very light, does not require any database and can be installed and configured in about 3 minutes. If you like Web Console, please consider an opportunity to support it on Patreon (https://www.patreon.com/nickola). 
 # Installation
